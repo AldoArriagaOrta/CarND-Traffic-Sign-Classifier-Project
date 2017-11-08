@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image1]: ./examples/histogram.png "Training Set Classes Distribution"
 [image2]: ./examples/classes_examples.png "Classes Examples"
 [image3]: ./examples/normalization.png "Before and after normalization"
-[image4]: ./examples/bumpy road.jpg "Traffic Sign 1"
+[image4]: ./examples/bumpy_road.jpg "Traffic Sign 1"
 [image5]: ./examples/Do-Not-Enter.jpg "Traffic Sign 2"
 [image6]: ./examples/limit30.jpg "Traffic Sign 3"
 [image7]: ./examples/roundabout.jpg "Traffic Sign 4"
