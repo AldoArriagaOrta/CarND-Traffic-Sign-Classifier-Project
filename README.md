@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image7]: ./examples/roundabout.jpg "Traffic Sign 4"
 [image8]: ./examples/STOP.jpg "Traffic Sign 5"
 [image9]: ./examples/barchart.png "Test Results"
-[image9]: ./examples/weights.png "First Convolution Layer Features"
+[image10]: ./examples/weights.png "First Convolution Layer Features"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
