@@ -1,0 +1,2 @@
+model_checkpoint_path: "TSC_LeNet"
+all_model_checkpoint_paths: "TSC_LeNet"
