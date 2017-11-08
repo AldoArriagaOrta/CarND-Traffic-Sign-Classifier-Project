@@ -70,9 +70,8 @@ I believe that the degradation of performance after grayscaling was due to the l
 Here is an example of a traffic sign image before and after normalization.
 
 ![alt text][image3]
- 
 
-####2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
+#### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 
 My final model consisted of the following layers:
 
@@ -160,7 +159,6 @@ The top five soft max probabilities were
 | 1.0					| STOP     										|
 |  |  |
 
-![alt text][image1]
 ![alt text][image9]
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
