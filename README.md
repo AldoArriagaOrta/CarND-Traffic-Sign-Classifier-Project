@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 [image10]: ./examples/weights.png "First Convolution Layer Features"
 
 ## Rubric Points
-###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
+### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Writeup / README
@@ -51,11 +51,11 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. The first figure is a histogram showing the number of examples per class in the training set. The 
+Here is an exploratory visualization of the data set. The first figure is a histogram showing the number of examples per class in the training set.
 
 ![alt text][image1]
 
-The second figure presents examples of every class extracted from the training set.
+The second figure presents examples of every class, extracted from the training set.
 
 ![alt text][image2]
 
@@ -153,13 +153,14 @@ The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| 1.0  			   		| Bumpy Road   									| 
+| 1.0  			   	      	| Bumpy Road   									| 
 | 1.0 		   			| No entry 										|
 | 1.0					| Speed Limit(30 km/h)							|
 | 1.0					| Roundabout mandatory			 				|
 | 1.0					| STOP     										|
+|  |  |
 
-
+![alt text][image1]
 ![alt text][image9]
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
